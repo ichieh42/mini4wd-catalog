@@ -1,0 +1,16 @@
+# System / OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Local server artifacts
+node_modules/
+dist/
